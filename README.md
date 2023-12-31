@@ -1,3 +1,4 @@
+# Basic Statistics_Level 2 Set 2
 **Topics: Normal distribution, Functions of Random Variables**
 **1.	The time required for servicing transmissions is normally distributed with  = 45 minutes and  = 8 minutes.
 The service manager plans to have work begin on the transmission of a customer’s car 10 minutes after the car is
